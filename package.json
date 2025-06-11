@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building application...'",
+    "test": "echo 'Running tests...'"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
